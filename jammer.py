@@ -13,7 +13,7 @@ except:
     for i in range(1,6):
         print(i)
         time.sleep(1)
-    print("BOOM!!!"*3000)
+    print("BOOM!!!"*300)
     time.sleep(3)
     print('''   o          o                      o     o         
    |          |                      |     |         
